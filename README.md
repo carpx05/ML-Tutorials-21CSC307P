@@ -14,3 +14,9 @@ t4 contains tutorial 4: Support Vector Machine
 t5 contains tutorial 5: Gaussian Naive Bayes
 
 t6 contains tutorial 6: Principal Component Analysis
+
+t7 contains tutorial 7: Preprocessing
+
+t8 contains tutorial 8: Cross-Validation
+
+t9 contains tutorial 9: Performance Metrics
