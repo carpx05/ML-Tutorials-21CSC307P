@@ -20,3 +20,7 @@ t7 contains tutorial 7: Preprocessing
 t8 contains tutorial 8: Cross-Validation
 
 t9 contains tutorial 9: Performance Metrics
+
+t10 contains tutorial 10: Decision Tree Classifier
+
+t11 contains tutorial 11: Random Forest Classifier
